@@ -1,0 +1,16 @@
+<!-- The first section div -->
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="/images/share.png" />
+          </div>
+          <div class="col-md-6">
+            {#content-a}
+              <h1>{content-a-heading}</h1>
+              <p>{content-a-description}</p>
+            {/content-a}
+          </div>
+        </div>
+      </div>
+    </div>

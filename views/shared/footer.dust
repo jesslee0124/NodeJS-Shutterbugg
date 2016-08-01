@@ -1,0 +1,38 @@
+<!-- The footer div -->
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            {#footer-company}
+              <h3>{footer-company-heading}</h3>
+              <ul>
+                <li>{footer-company-list1}</li>
+                <li>{footer-company-list2}</li>
+                <li>{footer-company-list3}</li>
+              </ul>
+            {/footer-company}
+          </div>
+          <div class="col-md-3">
+            {#footer-products}
+              <h3>{footer-products-heading}</h3>
+              <ul>
+                <li>{footer-products-list1}</li>
+                <li>{footer-products-list2}</li>
+              </ul>
+            {/footer-products}
+          </div>
+          <div class="col-md-3">
+            {#footer-news}
+              <h3>{footer-news-heading}</h3>
+              <ul>
+                <li>{footer-news-list1}</li>
+                <li>{footer-news-list2}</li>
+                <li>{footer-news-list3}</li>
+                <li>{footer-news-list4}+</li>
+                <li>{footer-news-list5}</li>
+              </ul>
+            {/footer-news}
+          </div>
+        </div>
+      </div>
+    </div>

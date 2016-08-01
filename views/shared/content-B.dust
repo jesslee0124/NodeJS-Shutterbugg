@@ -1,0 +1,16 @@
+<!-- The second section div -->
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            {#content-b}
+              <h1>{content-b-heading}</h1>
+              <p>{content-b-description}</p>
+            {/content-b}
+          </div>
+          <div class="col-md-6">
+            <img src="/images/explore.png" />
+          </div>
+        </div>
+      </div>
+    </div>

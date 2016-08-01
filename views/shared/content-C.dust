@@ -1,0 +1,16 @@
+<!-- The third section div -->
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="/images/save.png" />
+          </div>
+          <div class="col-md-6">
+            {#content-c}
+              <h1>{content-c-heading}</h1>
+              <p>{content-c-description}</p>
+            {/content-c}
+          </div>
+        </div>
+      </div>
+    </div>
