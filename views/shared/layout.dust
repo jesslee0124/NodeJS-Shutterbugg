@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{eggi}</title>
+	<title>{title}</title>
 	<link rel="stylesheet" href="https://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
 </head>

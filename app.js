@@ -36,7 +36,7 @@ app.use(function(req, res, next) {
   next(err);
 });
 
-app.locals.global = {title : "hello"};
+app.locals.global = {title : "Shutterbugg"};
 
 // error handlers
 
